@@ -1,0 +1,7 @@
+﻿  test.cpp
+d:\carsystemdataset\sift\k-means\k-means\kmeans.h(11): fatal error C1083: Cannot open include file: 'opencv\cxcore.hpp': No such file or directory
+  Models.cpp
+d:\carsystemdataset\sift\k-means\k-means\models.h(8): fatal error C1083: Cannot open include file: 'opencv2\opencv.hpp': No such file or directory
+  KMeans.cpp
+d:\carsystemdataset\sift\k-means\k-means\kmeans.h(11): fatal error C1083: Cannot open include file: 'opencv\cxcore.hpp': No such file or directory
+  Generating Code...
